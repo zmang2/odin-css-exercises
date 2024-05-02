@@ -1,0 +1,21 @@
+/* Odd numbered elements */
+.odd {
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+/* Class used to adjust font to 24px */
+.font-adjustment {
+    font-size: 24px;
+}
+
+/* Second element */
+#no2 {
+    color: blue;
+    font-size: 36px;
+}
+
+/* 4th element */
+#no4 {
+background-color: rgb(143, 237, 143);
+font-weight: bold;
+}
